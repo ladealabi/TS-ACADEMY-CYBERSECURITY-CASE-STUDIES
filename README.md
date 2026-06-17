@@ -78,22 +78,31 @@ Key Lessons Learned
 
 Skills Demonstrated
 
-Incident Analysis
+1. Incident Analysis
 
-Threat Assessment
+2. Threat Assessment
 
-Cybersecurity Research
+3. Cybersecurity Research
 
-Risk Analysis
+4. Risk Analysis
 
-Technical Writing
+5. Technical Writing
 
-Security Awareness
+6. Security Awareness
+
+RISK ASSESSMENT TABLE
+
+| Risk             | Impact | Likelihood |
+| ---------------- | ------ | ---------- |
+| Identity Theft   | High   | High       |
+| Credential Abuse | High   | Medium     |
+| Financial Fraud  | High   | Medium     |
+| Phishing Attacks | Medium | High       |
 
 References
 
-CIRO Cybersecurity Incident Notice
+1. CIRO Cybersecurity Incident Notice
 
-CIRO Cybersecurity Threat Update
+2. CIRO Cybersecurity Threat Update
 
-Rescana Incident Report
+3.Rescana Incident Report
